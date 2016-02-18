@@ -1,0 +1,38 @@
+html {
+    background-color: lightgray;
+}
+
+.top {
+  text-align: center;
+}
+
+.blog-container {
+  width: 80%;
+  margin: 0 auto;
+}
+.add-quote, .remove-quote, .filter-quote {
+  background: DarkGreen;
+  color: white;
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.33;
+  display: inline-block;
+  margin-bottom: 0;
+  vertical-align: middle;
+  cursor: pointer;
+  background-image: none;
+  border: 1px solid transparent;
+}
+
+.button-container {
+  width: 205px;
+  margin: 0 auto;
+}
+.quote {
+  margin: 10px;
+  font-size: 20px;
+  text-align: right;
+}
+.source {
+  padding: 2em;
+}
